@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Dragón Anciano",
+        "coste": "{3}{R}{R}",
+        "tipo": "Criatura - Dragón",
+        "habilidades": ["Vuelo"],
+        "fuerza": 5,
+        "resistencia": 5
+    },
+    {
+        "nombre": "Mago del Caos",
+        "coste": "{1}{U}{U}",
+        "tipo": "Criatura - Mago",
+        "habilidades": ["Destello"],
+        "fuerza": 2,
+        "resistencia": 2
+    }
+]
